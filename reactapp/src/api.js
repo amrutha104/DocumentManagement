@@ -1,5 +1,5 @@
 // src/api.js
-const API_BASE_URL = 'https://8080-edbbcdbcdfbeebb313964481aeabdaffbaathree.premiumproject.examly.io';
+const API_BASE_URL = 'https://la2b51wxqf.execute-api.us-east-1.amazonaws.com/backend';
 
 export const fetchDocuments = async () => {
     try {
